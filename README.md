@@ -13,3 +13,6 @@ A high-performing alternative to Gallium, Sturdy and other custom keyboard layou
 
 - Can easily be made even more comfortable by boosting inrolls using software / firmware to either reverse the TH bigram (so that typing HT will result in TH and TH will result in HT) or implement an HG or MD combo that outputs TH.
 - The FY, CY and WY SFBs on vowel index are easy to alt-finger.
+
+here is a link to a git hub repository if you want a fast and easy way to download the layout natively to windows
+https://github.com/BoltyBridge/focal-easy-layout-download/tree/main?tab=readme-ov-file
